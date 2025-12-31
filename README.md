@@ -53,5 +53,5 @@ All analysis is implemented in Python (pandas + statsmodels) with scripts/notebo
 - bootstrap CIs
 - ITS outputs
 
-Run the notebooks end-to-end with `Project2Data.xls` to reproduce results. :contentReference[oaicite:5]{index=5}
+Run the notebooks end-to-end with `Project2Data.xls` to reproduce results. 
 
